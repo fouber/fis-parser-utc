@@ -1,7 +1,7 @@
 {
     "name" : "fis-parser-utc",
     "description" : "A parser for fis to compile underscore template.",
-    "version" : "0.0.1",
+    "version" : "0.0.2",
     "author" : "FIS Team <fis@baidu.com>",
     "homepage" : "http://fis.baidu.com/",
     "keywords": [ "fis", "underscore" ],
@@ -17,6 +17,6 @@
         "test" : "mocha test/ut --recursive"
     },
     "dependencies" : {
-        "underscore" : "~1.4.4"
+        "underscore" : "1.4.4"
     }
 }
